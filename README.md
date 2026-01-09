@@ -1,25 +1,25 @@
-# 🚌 Bus Tracker
+#  Bus Tracker
 
 A real-time bus tracking application that enables live location sharing and monitoring of buses using WebSockets and Leaflet maps.
 
 ## Features
 
-✨ **Real-time Location Tracking**
+ **Real-time Location Tracking**
 - Live GPS location updates using WebSockets
 - Multiple buses can share their locations simultaneously
 - Instant location broadcasting to all connected users
 
-🗺️ **Interactive Maps**
+ **Interactive Maps**
 - Leaflet. js for map visualization
 - Moving markers to display bus positions
 - Real-time marker updates as buses move
 
-💬 **Live Communication**
+ **Live Communication**
 - Socket.IO for bidirectional real-time communication
 - Instant notifications when buses connect/disconnect
 - Location sharing confirmations
 
-🎨 **User-Friendly Interface**
+ **User-Friendly Interface**
 - EJS templating for dynamic HTML rendering
 - Responsive design for various devices
 - Clean and intuitive UI
